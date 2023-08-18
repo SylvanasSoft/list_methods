@@ -50,4 +50,5 @@ class MyList:
         self.massiv = sorted(self.massiv, reverse=reverse)
 
 
-a = MyList([1, 6, 5])
+#Example for object
+a = MyList([1, 6, 5, 4, 7])
